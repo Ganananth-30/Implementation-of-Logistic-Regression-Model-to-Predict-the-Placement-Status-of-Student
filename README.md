@@ -10,10 +10,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Algorithm
 
 1. Load the placement dataset and remove unnecessary columns such as serial number and salary.
-2.Convert all categorical attributes into numerical values using label encoding.
-3.Split the dataset into training and testing sets using train–test split.
-4.Train a Logistic Regression model using the training data.
-5.Predict placement status and evaluate the model using accuracy and confusion matrix.
+2. Convert all categorical attributes into numerical values using label encoding.
+3. Split the dataset into training and testing sets using train–test split.
+4. Train a Logistic Regression model using the training data.
+5. Predict placement status and evaluate the model using accuracy and confusion matrix.
  
 
 ## Program:
